@@ -23,3 +23,10 @@ This repository contains the inputs and molecular structures used in the calcula
 * [Graziâni Candiotto](https://orcid.org/0000-0001-6755-660X)<sup>b</sup>
 * [Luana Wouk](https://orcid.org/0000-0001-6567-5920](https://orcid.org/0000-0002-1843-0741)<sup>b</sup>
 * [Marlus Koehler](https://orcid.org/0000-0001-9935-5060)<sup>b</sup>
+
+# Institutions
+<sup>a</sup>Institute of  Physics, Federal University of Rio de Janeiro, 21941-909, Rio de Janeiro-RJ, Brazil.<br> [UFRJ](https://pos.if.ufrj.br/pt/)
+
+<sup>b</sup>Department of Physics, Federal University of Paraná, 81531-980, Curitiba-PR, Brazil.<br> [UFPR](http://fisica.ufpr.br/posgrad/)
+
+<sup>c</sup>Brazilian Nanotechnology National Laboratory (LNNano), Brazilian Center for Research in Energy and Materials (CNPEM), 13083-100, Campinas- SP, Brazil.<br/> [LNNano](https://lnnano.cnpem.br/en/home-en/)

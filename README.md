@@ -25,7 +25,7 @@ This repository contains the inputs and molecular structures used in the calcula
 * [Marlus Koehler](https://orcid.org/0000-0001-9935-5060)<sup>b</sup>
 
 # Institutions
-<sup>a</sup>Department of Physics, Federal University of Paraná, 81531-980, Curitiba, PR, Brazil. <br>[UFPR](http://fisica.ufpr.br/posgrad/)
+<sup>a</sup>Department of Physics, Federal University of Paraná, 81531-980, Curitiba, PR, Brazil.<br>[UFPR](https://www.prppg.ufpr.br/site/ppgfisica/pb/)
 
 <sup>b</sup>Institute of Physics, Federal University of Rio de Janeiro, 21941-909, Rio de Janeiro-RJ, Brazil.<br> [UFRJ](https://pos.if.ufrj.br/pt/)
 

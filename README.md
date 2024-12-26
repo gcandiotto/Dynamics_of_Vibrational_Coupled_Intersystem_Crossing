@@ -16,3 +16,10 @@ This repository contains the inputs and molecular structures used in the calcula
 - [Reorganization_Energy_and_Singlet_Triplet_Energies](https://github.com/gcandiotto/Dynamics_of_Vibrational_Coupled_Intersystem_Crossing/tree/main/Reorganization_Energy_and_Singlet_Triplet_Energies): contains the input files for the calculation of the reorganization energy from the singlet state to the triplet state for the molecules in groups I, II, III, and IV.
 
 - [Y6_frozen_scan](https://github.com/gcandiotto/Dynamics_of_Vibrational_Coupled_Intersystem_Crossing/tree/main/Y6_frozen_scan): contains the input files for the Y6 and IT-4Cl molecules with geometries where the dihedral angle is rotated to 60°, 65°, 70°, 90°, 110°, 120°, 140°, 150°, and 160°, in the geometry of the first singlet excited state.
+
+# Authors
+* [João Paulo Araújo Souza](https://orcid.org/0000-0003-4609-552X)<sup>a,b</sup>
+* [Leandro Benatto](https://orcid.org/0000-0001-9976-3574)<sup>a</sup>
+* [Graziâni Candiotto](https://orcid.org/0000-0001-6755-660X)<sup>b</sup>
+* [Luana Wouk]([https://orcid.org/0000-0001-6567-5920](https://orcid.org/0000-0002-1843-0741)<sup>b</sup>
+* [Marlus Koehler](https://orcid.org/0000-0001-9935-5060)<sup>b</sup>

@@ -27,6 +27,6 @@ This repository contains the inputs and molecular structures used in the calcula
 # Institutions
 <sup>a</sup>Department of Physics, Federal University of Paraná, 81531-980, Curitiba, PR, Brazil. <br>[UFPR](http://fisica.ufpr.br/posgrad/)
 
-<sup>b</sup>Department of Physics, Federal University of Paraná, 81531-980, Curitiba-PR, Brazil.<br> [UFRJ](https://pos.if.ufrj.br/pt/)
+<sup>b</sup>Institute of Physics, Federal University of Rio de Janeiro, 21941-909, Rio de Janeiro-RJ, Brazil.<br> [UFRJ](https://pos.if.ufrj.br/pt/)
 
-<sup>c</sup>Brazilian Nanotechnology National Laboratory (LNNano), Brazilian Center for Research in Energy and Materials (CNPEM), 13083-100, Campinas- SP, Brazil.<br/> [LNNano](https://lnnano.cnpem.br/en/home-en/)
+<sup>c</sup>Institute of Physics, University of Brasília, 70919-970, Brasília-DF, Brazil.<br/> [UnB](http://ppgfis.unb.br/)

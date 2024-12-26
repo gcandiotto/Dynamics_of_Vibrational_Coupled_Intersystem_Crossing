@@ -1,0 +1,7 @@
+%mem=1000MW
+%nprocshared=40
+%Oldchk=IEICO-4Cl-TDDFT-S1toT1-Triplet.chk
+%chk=IEICO-4Cl-NTO-T1.chk
+#p wB97XD/6-31g** Geom=AllCheck Guess=(Read,Only) Density=(Check,Transition=1) Pop=(Minimal,NTO,SaveNTO)
+
+0 1

@@ -1,0 +1,4 @@
+HOMO is 247
+No.	Energy (cm-1)	Wavelength (nm)	Osc. Strength	Symmetry	Major contribs	Minor contribs
+1	7284.84992	1372.71187599	0.0	Triplet-?Sym	HOMO->LUMO (95%)	H-2->LUMO (3%)
+2	9899.71744	1010.12984064	0.0	Triplet-?Sym	HOMO->L+1 (85%)	H-2->L+1 (6%), HOMO->L+3 (5%)

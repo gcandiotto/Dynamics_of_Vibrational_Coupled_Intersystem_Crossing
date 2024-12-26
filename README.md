@@ -1,5 +1,5 @@
 # Inputs and Molecular structure for *Dynamics of Vibrational Coupled Intersystem Crossing in State-of-the-Art Organic Optoelectronic Materials*
-This repository contains the inputs and molecular structures used in the calculations of the project Dynamics of Vibrational Coupled Intersystem Crossing in State-of-the-Art Organic Optoelectronic Materials.
+This repository contains the inputs and molecular structures used in the calculations of the project Dynamics of Vibrational Coupled Intersystem Crossing in State-of-the-Art Organic Optoelectronic Materials. The files used in this work were organized into the following sections:
 
 [HSO](https://github.com/gcandiotto/Dynamics_of_Vibrational_Coupled_Intersystem_Crossing/tree/main/HSO): contains the input files for the calculation of spin-orbit coupling of the molecules in groups I, II, III, and IV. These geometries were taken from the Reorganization_Energy_and_Singlet_Triplet_Energies folder, following the scheme in Figure 2 of the main article.
 

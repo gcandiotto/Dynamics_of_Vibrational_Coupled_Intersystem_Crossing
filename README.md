@@ -19,14 +19,14 @@ This repository contains the inputs and molecular structures used in the calcula
 
 # Authors
 * [João Paulo Araújo Souza](https://orcid.org/0000-0003-4609-552X)<sup>a,b</sup>
-* [Leandro Benatto](https://orcid.org/0000-0001-9976-3574)<sup>a</sup>
-* [Graziâni Candiotto](https://orcid.org/0000-0001-6755-660X)<sup>b</sup>
+* [Leandro Benatto](https://orcid.org/0000-0001-9976-3574)<sup>c</sup>
+* [Graziâni Candiotto](https://orcid.org/0000-0001-6755-660X)<sup>c</sup>
 * [Luana Wouk](https://orcid.org/0000-0002-1843-0741)<sup>b</sup>
-* [Marlus Koehler](https://orcid.org/0000-0001-9935-5060)<sup>b</sup>
+* [Marlus Koehler](https://orcid.org/0000-0001-9935-5060)<sup>a</sup>
 
 # Institutions
 <sup>a</sup>Department of Physics, Federal University of Paraná, 81531-980, Curitiba, PR, Brazil.<br>[UFPR](https://www.prppg.ufpr.br/site/ppgfisica/pb/)
+<sup>b</sup>Institute of Physics, University of Brasília, 70919-970, Brasília-DF, Brazil.<br/>[UnB](http://ppgfis.unb.br/)
+<sup>b</sup>Institute of Physics, Federal University of Rio de Janeiro, 21941-909, Rio de Janeiro-RJ, Brazil.<br>[UFRJ](https://pos.if.ufrj.br/pt/)
 
-<sup>b</sup>Institute of Physics, Federal University of Rio de Janeiro, 21941-909, Rio de Janeiro-RJ, Brazil.<br> [UFRJ](https://pos.if.ufrj.br/pt/)
 
-<sup>c</sup>Institute of Physics, University of Brasília, 70919-970, Brasília-DF, Brazil.<br/> [UnB](http://ppgfis.unb.br/)
